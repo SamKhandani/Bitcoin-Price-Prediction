@@ -79,3 +79,9 @@ This repository contains a **Bidirectional Multi-Layer LSTM** model to predict B
 ```bash
 pip install tensorflow keras numpy pandas matplotlib plotly scikit-learn
 ```
+----
+----
+![output4cnn](https://github.com/user-attachments/assets/1c73e93e-3b51-498e-a679-6255684c2743)
+
+
+
